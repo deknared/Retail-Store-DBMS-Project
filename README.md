@@ -1,5 +1,4 @@
 # Retail-Store-DBMS-Project
-This project is about Database Management System in Retail Stores.
 
 ## Overview
 Retail Store Management Database System captures changes  specifically in human resources.
@@ -42,5 +41,5 @@ It is assumed that Retail Store number of branches in different  locations. In o
 
 ## Authors
 
-- [@gavrielowens](https://www.github.com/deknared)
+- [@deknared](https://www.github.com/deknared)
 - [@javokheer](https://github.com/Javokheer)
